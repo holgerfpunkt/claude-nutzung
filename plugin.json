@@ -1,0 +1,1 @@
+{ "name": "nutzung", "version": "0.1.0", "license": "MIT", "description": "Zeigt über dem Eingabefeld die Claude-Nutzung: 5-Stunden-Fenster und Woche, mit Reset-Zeit", "types": "./types/index.d.ts" }

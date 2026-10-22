@@ -1,0 +1,5 @@
+{
+  "name": "holger-mods",
+  "owner": { "name": "Holger Fink" },
+  "plugins": [{ "name": "nutzung", "source": "./" }]
+}
